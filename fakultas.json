@@ -1,0 +1,8 @@
+INSERT INTO `fakultas`(`kode_fakultas`, `nama_fakultas`, `Dosen_nid`) VALUES
+('FEB', 'Ekonomi dan Bisnis', '0409095403'),
+('FIF', 'Informatika', '0428065501'),
+('FIK', 'Industri Kreatif', '0411014301'),
+('FIT', 'Ilmu Terapan', '0430037303'),
+('FKB', 'Komunikasi dan Bisnis', '0407128701'),
+('FRI', 'Rekayasa Industri' ,'0420015903'),
+('FTE', 'Teknik Elektro', '0427097105');
